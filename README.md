@@ -1,4 +1,4 @@
-﻿# Hello Biwwwww, this is Informatics.
+# Hello Biwwwww, this is Informatics.
 
 ## I'm going to Burapha University
 
