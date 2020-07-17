@@ -1,4 +1,4 @@
-﻿# Hello Biwwwww, this is Octocat.
+﻿# Hello Biwwwww, this is Informatics.
 
 ## I'm going to Burapha University
 
