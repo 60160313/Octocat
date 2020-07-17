@@ -2,4 +2,4 @@
 
 ## I'm going to Burapha University
 
-### Let's start with git init
+### Say Hi My Nickname Rabbit
